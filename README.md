@@ -60,3 +60,7 @@ Descripción: La aplicación debe ser compatible con navegadores web modernos y 
 Medición: Pruebas de compatibilidad en diferentes dispositivos y navegadores.
 Prioridad: Alta.
 RNF-05: Escalabilidad
+
+## Captura de pantalla con lo realizado en el backlog.
+![alt text](image.png)
+![alt text](image-1.png)
